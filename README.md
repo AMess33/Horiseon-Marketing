@@ -9,9 +9,10 @@
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+[HoriseonMarketing](https://amess33.github.io/Horiseon-Marketing/)
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+|As you navigate the website you will notice a TITLE of "Horiseon Marketing" is in the Tab of the webpage browser. If you click on the 3 options in the header you will be redirected to the paragraphs they represent below. If the imagaes fail to load you will see discreptive text to represent what the images intended to show|
+
 
 ![Horiseon Marketing Webpage Screenshot](assets/images/HoriseonScreenshot.png)
 
