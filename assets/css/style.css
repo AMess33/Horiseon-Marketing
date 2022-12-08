@@ -3,11 +3,11 @@
     padding: 0;
     margin: 0;
 }
-
+/* Setting the webpages background to white */
 body {
     background-color: #d9dcd6;
 }
-
+/* Give the header unique font, background color and text color */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -142,7 +142,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* Give the online reputation section specific fonts, colors, and sizing */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -187,7 +187,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* assign unique font and center the footer text */
 .footer {
     padding: 30px;
     clear: both;
